@@ -197,6 +197,7 @@ Este proyecto demuestra conocimientos en:
 
 Proyecto desarrollado para el curso de Desarrollo Full Stack JAVA.
 Docente: Sabina Romero Rodríguez
+Estudiante: Maximiliano Vilugrón Cofré
 
 ## 📄 Licencia
 
@@ -205,5 +206,5 @@ Este proyecto es de código abierto y está disponible para fines educativos.
 ---
 
 **Fecha de desarrollo**: Diciembre 2025  
-**Versión**: 1.0.0
-# Alke-Wallet---Billetera-Digital-Dic-2025
+**Versión**: 1.1.0
+# Alke-Wallet
