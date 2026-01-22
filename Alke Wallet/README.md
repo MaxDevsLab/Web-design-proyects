@@ -36,10 +36,14 @@ alke-wallet/
 ├── css/
 │   └── styles.css          # Estilos personalizados
 │
+├── Assets/
+│   └── dataparticles.mp4   # Animacion de inicio
+│
 ├── js/
 │   ├── login.js            # Lógica del login
 │   ├── deposit.js          # Lógica de depósitos
 │   ├── sendmoney.js        # Lógica de transferencias
+│   ├── menu.js             # Lógica del menú
 │   └── transactions.js     # Lógica del historial
 │
 └── README.md               # Este archivo
