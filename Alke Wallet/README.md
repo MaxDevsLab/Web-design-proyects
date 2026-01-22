@@ -6,7 +6,7 @@ Proyecto de billetera digital desarrollado como parte del Módulo 2: Fundamentos
 
 Alke Wallet es una aplicación web de billetera digital que permite a los usuarios gestionar sus activos financieros de manera segura y conveniente. Los usuarios pueden:
 
-- Iniciar sesión de forma segura
+- Iniciar sesión (simulación de login)
 - Ver su saldo disponible
 - Realizar depósitos de fondos
 - Enviar dinero a otros contactos
