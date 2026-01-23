@@ -1,1 +1,1 @@
-#Alke Wallet proyect modulo 2 Js fullstack
+#Alke Wallet proyect modulo 2 curso Full Stack JavaScript
