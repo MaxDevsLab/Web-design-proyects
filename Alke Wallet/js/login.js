@@ -3,6 +3,14 @@
 // ========================================
 
 $(document).ready(function() {
+    
+    //animacion fondo login
+    const video = $('.bg-video').get(0);
+
+    if (video) {
+        video.playbackRate = 0.70;
+    };
+
     // Credenciales de prueba
     const validUsers = {
         'admin': '1234',
