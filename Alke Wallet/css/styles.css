@@ -284,3 +284,6 @@ object-fit: cover;
   opacity: 0.9;        /* ajustar segun preferencia */ 
 filter: saturate(120%) brightness(1.05);
 }
+#h-login {
+    color: var(--primary-color);
+}
