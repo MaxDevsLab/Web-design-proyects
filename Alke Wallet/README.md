@@ -202,6 +202,7 @@ Este proyecto demuestra conocimientos en:
 Proyecto desarrollado para el curso de Desarrollo Full Stack JAVA.
 Docente: Sabina Romero Rodríguez
 Estudiante: Maximiliano Vilugrón Cofré
+Proyecto usado actualmente en curso de desarrollo Full Stack JavaScript.
 
 ## 📄 Licencia
 
